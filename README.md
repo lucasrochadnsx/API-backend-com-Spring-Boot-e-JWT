@@ -46,19 +46,14 @@ Este projeto foi criado com o objetivo de aplicar boas práticas de desenvolvime
 ---
 
 ## 📂 Estrutura do projeto
-
+```
 src/
-
 ├── controller
-|
 ├── service
-|
 ├── repository
-|
 ├── model
-|
 └── config
-
+```
 ---
 
 ## ▶️ Como rodar o projeto localmente
